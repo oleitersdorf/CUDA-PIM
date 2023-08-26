@@ -2,7 +2,7 @@
 ## Overview
 This repository includes the framework proposed in the following paper,
 
-`Anonymous Authors, “CUDA-PIM: End-to-End Integration of Digital Processing-in-Memory from High-Level C++ to Microarchitectural Design,” 2023.`
+`Orian Leitersdorf, Ronny Ronen, and Shahar Kvatinsky, “CUDA-PIM: End-to-End Integration of Digital Processing-in-Memory from High-Level C++ to Microarchitectural Design,” 2023.`
 
 The framework enables high-level programming of PIM applications with significant ease. The framework benefits from the high
 flexibility of C++ to enable the user to assemble new PIM routines from existing arithmetic functions, such as:
